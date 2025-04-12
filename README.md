@@ -8,19 +8,10 @@ This repository includes full implementations of core data structures and fundam
 
 ## 📁 Project Structure
 
-📁 data_structures/ ├── array.py ├── linked_list.py ├── stack.py ├── queue.py ├── tree.py ├── graph.py ├── hash_table.py └── heap.py
+📁 DS/ ├── 📁 Queue ├── 📁 Stack ├── 📁 Linked_Lists ├── 📁 BST └── 📁 Graph 
 
-📁 algorithms/ 📁 sorting/ ├── bubble_sort.py ├── selection_sort.py ├── insertion_sort.py ├── merge_sort.py └── quick_sort.py
+📁 Algorithms/ Sort.py ├── Search.py
 
-markdown
-Copy
-Edit
-📁 search/
-    ├── dfs.py
-    └── bfs.py
-yaml
-Copy
-Edit
 
 ---
 
@@ -32,7 +23,6 @@ Edit
 - ✅ Trees
 - ✅ Graphs
 - ✅ Hash Tables
-- ✅ Heaps
 - ✅ Sorting Algorithms
 - ✅ Graph Traversal (DFS, BFS)
 
