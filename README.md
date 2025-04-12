@@ -10,7 +10,7 @@ This repository includes full implementations of core data structures and fundam
 
 📁 DS/ ├── 📁 Queue ├── 📁 Stack ├── 📁 Linked_Lists ├── 📁 BST └── 📁 Graph 
 
-📁 Algorithms/ Sort.py ├── Search.py
+📁 Algorithms/ ├── Sort.py ├── Search.py
 
 
 ---
